@@ -43,7 +43,7 @@ The project consists of:
   ```bash
 pip install requirements.txt
  ```
-3. **Run main.py
+3. **Run main.py**:
     ```bash
     python main.py
     ```
