@@ -1,6 +1,6 @@
 # LOG8415
 
-# MySQL Cluster Management and Proxy Implementation
+## MySQL Cluster Management and Proxy Implementation
 
 This project demonstrates the implementation of a MySQL cluster with a proxy pattern for managing database routing and a gatekeeper-trusted host pattern for secure client communication. The setup automates AWS resource deployment, MySQL configuration, and benchmarking using Python and Docker.
 
@@ -29,7 +29,7 @@ The project consists of:
 - **Benchmarking**: Evaluates cluster performance with read and write operations.
 
 ## Prerequisites
-- Python 3.7+
+- Python 3.8+
 - AWS CLI configured with programmatic access.
 - Required Python libraries: `boto3`, `flask`, `pymysql`.
 
@@ -37,5 +37,14 @@ The project consists of:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [<repository_url>](https://github.com/mahsamaali/LOG8415)
-   cd <repository_name>LOG8415
+   git clone https://github.com/mahsamaali/LOG8415
+   cd LOG8415
+2. **Install Required Libraries**:
+  ```bash
+pip install requirements.txt
+ ```
+3. **Run main.py
+    ```bash
+    python main.py
+    ```
+   
