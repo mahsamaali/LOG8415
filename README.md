@@ -45,6 +45,6 @@ pip install requirements.txt
  ```
 3. **Run main.py**:
     ```bash
-    python main.py
+    python /code/main.py
     ```
    
