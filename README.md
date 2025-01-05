@@ -37,8 +37,8 @@ The project consists of:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/mahsamaali/LOG8415
-   cd LOG8415
+   git clone https://github.com/mahsamaali/LOG8415_Project
+   cd LOG8415_Project
 2. **Install Required Libraries**:
   ```bash
 pip install requirements.txt
