@@ -9,11 +9,8 @@ This project demonstrates the implementation of a MySQL cluster with a proxy pat
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Security Measures](#security-measures)
-- [Benchmarking](#benchmarking)
-- [Cleanup](#cleanup)
-- [License](#license)
+
+
 
 ## Overview
 The project consists of:
